@@ -1,4 +1,4 @@
-// Task 1
+// Task 1 //
 
 let x = 10;
 if (x > 5)  {
@@ -18,4 +18,9 @@ if (score > 60) {
     console.log("Passing")
 } else {
     console.log("Fail")
+};
+
+// Task 3 //
+for (let i = 10; i >= 1; i--) {
+    console.log(i);
 };

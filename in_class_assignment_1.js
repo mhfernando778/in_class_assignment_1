@@ -11,3 +11,11 @@ if (expenses > 7000) {
 } else {
     console.log("Manageable Expenses")
 };
+
+// Task 2 //
+let score = 60;
+if (score > 60) {
+    console.log("Passing")
+} else {
+    console.log("Fail")
+};
